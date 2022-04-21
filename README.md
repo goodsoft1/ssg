@@ -1,2 +1,1 @@
-# Megamart.github.io
-Megamart App Download Pages
+ShinesegaePoint PushTest Download Page
